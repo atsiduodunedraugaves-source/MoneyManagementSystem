@@ -1,0 +1,3 @@
+AutoPlaceStuff False
+CanTryPass 2
+PunishmentforMistake 10
