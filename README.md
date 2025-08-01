@@ -4,6 +4,9 @@ How to use it
 First of all you will need MySQL database and import the Msqldatabse file (Very important),
 add password which is named pass in the MySql file after creating a MySQL database you will need to add URL NAME and PASSWORD of you database into MySQL.txt which is located in the programs files src\MySQL.txt after that program should work as intended
 
+You can donwloand folder named MoneyManagment and import in your compiler like VS CODE
+
+
 ps.
 Sorry for half Lithuainian half english words in that code thats on me.
 
